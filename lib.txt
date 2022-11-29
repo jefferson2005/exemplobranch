@@ -1,0 +1,1 @@
+comando para a importação de biblioteca c: #include <>
